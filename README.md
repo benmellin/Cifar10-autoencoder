@@ -213,7 +213,7 @@ def function2trainTheModel():
 
 ```
 
-## Test the trained model
+
 ```python
 # test the model on a bit of data
 trainlosses,testlosses,net = function2trainTheModel()
@@ -238,7 +238,7 @@ plt.show()
     
 
 
-
+## Test the trained model
 ```python
 # Visualize images through the trained network
 
