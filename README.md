@@ -46,7 +46,7 @@ print(device)
     cpu
 
 
-
+## Prepare the data
 ```python
 # download the dataset
 # download the CIFAR10 dataset
@@ -67,7 +67,7 @@ testset = [element[0] for element in testset]
     Files already downloaded and verified
 
 
-
+## Create the net
 ```python
 def createTheCIFARAE():
 
@@ -113,7 +113,7 @@ def createTheCIFARAE():
 
 ```
 
-
+## Test untrained model
 ```python
 # test the untrained model with some images
 net,lossfun,optimizer = createTheCIFARAE()
@@ -144,7 +144,7 @@ plt.show()
 ![svg](images/Cifar10autoencoder_5_0.svg)
     
 
-
+## Train the net
 
 ```python
 # Train the Net
@@ -213,7 +213,7 @@ def function2trainTheModel():
 
 ```
 
-
+## Test the trained model
 ```python
 # test the model on a bit of data
 trainlosses,testlosses,net = function2trainTheModel()
