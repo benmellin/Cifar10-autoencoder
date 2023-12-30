@@ -144,7 +144,7 @@ plt.show()
 
 
     
-![svg](/Users/benjaminmellin/Desktop/Teststuff/Convert/Cifar10autoencoder_5_0.svg)
+![svg](/Users/benjaminmellin/Desktop/Teststuff/Convert/images/Cifar10autoencoder_5_0.svg)
     
 
 
@@ -237,7 +237,7 @@ plt.show()
 
 
     
-![svg](/Users/benjaminmellin/Desktop/Teststuff/Convert/Cifar10autoencoder_8_0.svg)
+![svg](/Users/benjaminmellin/Desktop/Teststuff/Convert/images/Cifar10autoencoder_8_0.svg)
     
 
 
@@ -277,7 +277,7 @@ plt.show()
 
 
     
-![svg](/Users/benjaminmellin/Desktop/Teststuff/Convert/Cifar10autoencoder_9_1.svg)
+![svg](/Users/benjaminmellin/Desktop/Teststuff/Convert/images/Cifar10autoencoder_9_1.svg)
     
 
 
