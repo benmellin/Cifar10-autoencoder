@@ -1,14 +1,11 @@
 ### Cifar10 autoencoder
--The goal of this project is to create an autoencoder with a pre-specified architecture that is trained on the images in the CIFAR 10 data set, which contains 60,000 32x32 color images of 10 different classes.
-
--Here is a link to the dataset: https://www.cs.toronto.edu/~kriz/cifar.html
-
--I use the pytorch library for the implementation of this project.
-
--This is my unique solution to a project created for Mike X Cohen's "A Deep Understanding of Deep Learning Class"
-
--Much of the code is adapted from this course.
-
+- [The original colab file can be found here.](https://colab.research.google.com/drive/1mj6U9gSiMDmXaoDH4HbwY_ngvN9GHOBa?usp=sharing)
+- The goal of this project is to create a convolutional neural network autoencoder for the CIFAR10 dataset, with a pre-specified architecture.
+- The CIFAR10 dataset contains 60,000 32x32 color images of 10 different classes.
+- I use the pytorch library for the implementation of this project.
+- This is my unique solution to a project created for Mike X Cohen's "A Deep Understanding of Deep Learning" class.
+- Much of the code is adapted from this course.
+- Images that have been pushed through the autoencoder can be seen at the bottom of the file.
 
 
 
